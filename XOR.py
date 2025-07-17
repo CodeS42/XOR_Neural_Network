@@ -1,10 +1,8 @@
 class XOR:
-    def __init__(self):
-        inputs = [
+    inputs = [
             (0, 0),
             (0, 1),
             (1, 0),
             (1, 1)
         ]
-
-        outputs = [0, 1, 1, 0]
+    outputs = [0, 1, 1, 0]
